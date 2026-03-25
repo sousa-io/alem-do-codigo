@@ -1,0 +1,11 @@
+# Temporários e backups
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# Arquivos grandes que podem aparecer depois
+*.docx
+*.pdf
+*.zip
