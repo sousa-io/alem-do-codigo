@@ -6,6 +6,5 @@
 Thumbs.db
 
 # Arquivos grandes que podem aparecer depois
-*.docx
 *.pdf
 *.zip
