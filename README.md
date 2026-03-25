@@ -1,8 +1,8 @@
-\# Além do Código
+# Além do Código
 
 
 
-\*\*Uma novela de ficção realista brasileira\*\*
+**Uma novela de ficção realista brasileira**
 
 
 
@@ -18,39 +18,39 @@ Uma história sobre ambição, consequências, conflito interno e redenção, co
 
 
 
-\- \*\*Gênero\*\*: Ficção realista / Drama / Transformação espiritual  
+- **Gênero**: Ficção realista / Drama / Transformação espiritual  
 
-\- \*\*Número de capítulos\*\*: 8  
+- **Número de capítulos**: 8  
 
-\- \*\*Público-alvo\*\*: Jovens e adultos  
+- **Público-alvo**: Jovens e adultos  
 
-\- \*\*Status\*\*: Em desenvolvimento  
+- **Status**: Em desenvolvimento  
 
-\- \*\*Autor\*\*: Thiago Sousa
-
-
-
-\---
+- **Autor**: Thiago Sousa
 
 
 
-\### Estrutura do Projeto
+---
 
 
 
-\- `capítulos/` → Arquivos finais de cada capítulo (em Markdown)
-
-\- `rascunhos/` → Versões em progresso e ideias
-
-\- `personagens/` → Fichas completas dos personagens
-
-\- `pesquisa/` → Referências sobre programação, hacking e contexto tocantinense
-
-\- `capa/` → Versões da capa do livro
+### Estrutura do Projeto
 
 
 
-\---
+- `capítulos/` → Arquivos finais de cada capítulo (em Markdown)
+
+- `rascunhos/` → Versões em progresso e ideias
+
+- `personagens/` → Fichas completas dos personagens
+
+- `pesquisa/` → Referências sobre programação, hacking e contexto tocantinense
+
+- `capa/` → Versões da capa do livro
+
+
+
+---
 
 
 
