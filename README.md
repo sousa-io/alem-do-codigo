@@ -6,7 +6,7 @@
 
 
 
-Adriel Carvalho Moura é um jovem de 17 anos de família simples do Tocantins. Enquanto o pai luta contra dívidas e a mãe segura a casa, Adriel descobre a programação por acaso. O que começa como curiosidade inocente rapidamente evolui para invasões digitais, manipulação e escolhas questionáveis.
+Adriel Carvalho Moura é um jovem de 16 anos de família simples do Tocantins. Enquanto o pai luta contra dívidas e a mãe segura a casa, Adriel descobre a programação por acaso. O que começa como curiosidade inocente rapidamente evolui para invasões digitais, manipulação e escolhas questionáveis.
 
 
 
