@@ -26,6 +26,11 @@
 - **Personalidade**: A “cola” da família. Tenta manter a paz em casa, acalmar o marido e cuidar do filho.
 - **Dificuldade atual**: Lida com o estresse das dívidas e com um adolescente que “só fica no sofá”.
 
+### Kaio Mendes (melhor amigo)
+
+- **Profissão**: Estudante
+- **Personalidade**: Baixinho, charmoso, nerd da turma, notas altas, sarcástico e debochado, melhor amigo de Adriel desde o Fundamental. 
+
 
 
 ## Outros detalhes importantes:
