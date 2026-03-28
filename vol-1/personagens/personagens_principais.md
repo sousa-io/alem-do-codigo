@@ -5,7 +5,7 @@
 ### Adriel Carvalho Moura
 
 - **Idade**: 16 anos
-- **Ano escolar**: 2º ano do Ensino Médio
+- **Ano escolar**: 1º ano do Ensino Médio
 - **Aparência**: Pardo, cabelo enrolado (geralmente bagunçado), corpo nem magro nem obeso (ele pretende começar a ir à academia depois), dentes separados (pretende corrigir no futuro)
 - **Personalidade**: Ambicioso, porém ingênuo. Sonhador, observador, ainda imaturo.
 - **Situação**: Vive com os pais em condições financeiras difíceis.
@@ -22,6 +22,7 @@
 
 ### Edna Moura (mãe)
 
+- **Idade**: 42
 - **Profissão**: Costureira de alfaiataria (trabalha em casa ou como diarista)
 - **Personalidade**: A “cola” da família. Tenta manter a paz em casa, acalmar o marido e cuidar do filho.
 - **Dificuldade atual**: Lida com o estresse das dívidas e com um adolescente que “só fica no sofá”.
